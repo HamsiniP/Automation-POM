@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-25T16:07:47Z" name="Default Suite" finished-at="2020-06-25T16:08:54Z" duration-ms="67664">
+    <groups>
+    </groups>
+    <test started-at="2020-06-25T16:07:47Z" name="comtravels" finished-at="2020-06-25T16:08:54Z" duration-ms="67664">
+      <class name="tests.tests">
+        <test-method is-config="true" signature="setupdriver()[pri:0, instance:tests.tests@1990a65e]" started-at="2020-06-25T16:07:47Z" name="setupdriver" finished-at="2020-06-25T16:08:03Z" duration-ms="15769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupdriver -->
+        <test-method signature="verifylogin()[pri:0, instance:tests.tests@1990a65e]" started-at="2020-06-25T16:08:03Z" name="verifylogin" finished-at="2020-06-25T16:08:07Z" duration-ms="4637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method signature="verifyWelcomeMessage()[pri:1, instance:tests.tests@1990a65e]" started-at="2020-06-25T16:08:07Z" name="verifyWelcomeMessage" finished-at="2020-06-25T16:08:07Z" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWelcomeMessage -->
+        <test-method signature="verifyAccountTiles()[pri:2, instance:tests.tests@1990a65e]" started-at="2020-06-25T16:08:07Z" name="verifyAccountTiles" finished-at="2020-06-25T16:08:07Z" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountTiles -->
+        <test-method signature="verifyAddingProductIntoCart()[pri:3, instance:tests.tests@1990a65e]" started-at="2020-06-25T16:08:07Z" name="verifyAddingProductIntoCart" finished-at="2020-06-25T16:08:12Z" duration-ms="4922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddingProductIntoCart -->
+        <test-method signature="verifyRemoveProduct()[pri:4, instance:tests.tests@1990a65e]" started-at="2020-06-25T16:08:12Z" name="verifyRemoveProduct" finished-at="2020-06-25T16:08:14Z" duration-ms="1468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRemoveProduct -->
+        <test-method signature="verifyContactUs()[pri:5, instance:tests.tests@1990a65e]" started-at="2020-06-25T16:08:14Z" name="verifyContactUs" finished-at="2020-06-25T16:08:19Z" duration-ms="4907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactUs -->
+        <test-method signature="goToHome()[pri:6, instance:tests.tests@1990a65e]" started-at="2020-06-25T16:08:19Z" name="goToHome" finished-at="2020-06-25T16:08:23Z" duration-ms="4450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToHome -->
+        <test-method signature="addItemfromHome()[pri:7, instance:tests.tests@1990a65e]" started-at="2020-06-25T16:08:23Z" name="addItemfromHome" finished-at="2020-06-25T16:08:47Z" duration-ms="24167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemfromHome -->
+        <test-method signature="verifyTilesInSummary()[pri:8, instance:tests.tests@1990a65e]" started-at="2020-06-25T16:08:47Z" name="verifyTilesInSummary" finished-at="2020-06-25T16:08:52Z" duration-ms="5130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTilesInSummary -->
+        <test-method signature="signOut()[pri:9, instance:tests.tests@1990a65e]" started-at="2020-06-25T16:08:52Z" name="signOut" finished-at="2020-06-25T16:08:54Z" duration-ms="1992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+      </class> <!-- tests.tests -->
+    </test> <!-- comtravels -->
+  </suite> <!-- Default Suite -->
+</testng-results>
